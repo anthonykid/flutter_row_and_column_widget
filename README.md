@@ -1,5 +1,8 @@
 # flutter_row_and_column_widget
 
+you can learn with this code, i simply explain all about what i write and what it is use for
+if you wanna ask for more you can contact me on my twitter, link is on bio
+
 A new Flutter project.
 
 ## Getting Started
